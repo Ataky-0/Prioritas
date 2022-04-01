@@ -1,0 +1,9 @@
+# Comments section will be ignored.
+# Note that empty files will be considered exclusion terms,
+# therefore, prioritas will ignore processes of given classes.
+# Also not that the script will use the last number given.
+# UNFOCUSNICE 5 10 15 12	## For example will use the number 12.
+
+UNFOCUSNICE	5
+FOCUSNICE -5
+
