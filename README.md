@@ -12,4 +12,9 @@ There are ways to control and create exceptions for any windows (currently based
 
 Use the no-argument "prioritas" command to refer to a basic help section.
 
-This project is motivated by personal and technical development, so I'll be grateful for any tips/opinions about the same S2
+This project is motivated by personal and technical development, so I'll be grateful for any tips/opinions about it S2
+
+
+# Installation
+
+Place all the shell script inside ```/usr/bin/```, exceptions folder may be optionally placed at ```/etc/prioritas/exceptions/``` (you can change its path inside prioritas.sh/prioritas_d.sh)
